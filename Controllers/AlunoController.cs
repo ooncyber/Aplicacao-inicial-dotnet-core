@@ -19,6 +19,7 @@ namespace WebApplication1.Controllers
         public IActionResult Get()
         {
             return Ok();
+            // return Ok();
         }
 
         [HttpGet("{AlunoId}")]
