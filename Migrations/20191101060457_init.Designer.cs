@@ -8,7 +8,7 @@ using WebApplication1.Data;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20191101054236_init")]
+    [Migration("20191101060457_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
